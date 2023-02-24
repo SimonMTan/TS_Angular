@@ -7,4 +7,12 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'TS_AngularXX';
+  // inputText: string = '';
+  // displayedText: string = '';
+
+  // displayText() {
+  //   this.displayedText = this.inputText;
+  // }
+
+
 }
